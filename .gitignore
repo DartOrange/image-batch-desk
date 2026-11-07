@@ -1,0 +1,15 @@
+bin/
+obj/
+tests/bin/
+tests/obj/
+.vs/
+*.user
+*.suo
+.env
+.env.*
+!.env.example
+*.pfx
+*.key
+*.jks
+*.keystore
+outputs/
